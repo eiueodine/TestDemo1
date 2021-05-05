@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "294818897474",
+    "firebase_url": "https://startupmovie-bef23.firebaseio.com",
+    "project_id": "startupmovie-bef23",
+    "storage_bucket": "startupmovie-bef23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294818897474:android:4f097af9e90c9327e357db",
+        "android_client_info": {
+          "package_name": "com.sv.flutter_test_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294818897474-airkgt52qnukkriae112g2fm5g3abj7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSszc2gsVcm5sLBFZl-Tqm-D9fr-auqSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294818897474-airkgt52qnukkriae112g2fm5g3abj7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294818897474:android:cfd2e475fccb9e74e357db",
+        "android_client_info": {
+          "package_name": "com.sv.movie_collection_films"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294818897474-airkgt52qnukkriae112g2fm5g3abj7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSszc2gsVcm5sLBFZl-Tqm-D9fr-auqSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294818897474-airkgt52qnukkriae112g2fm5g3abj7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294818897474:android:be4e2bfb4706ec03e357db",
+        "android_client_info": {
+          "package_name": "com.sviatteam.mymovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294818897474-airkgt52qnukkriae112g2fm5g3abj7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSszc2gsVcm5sLBFZl-Tqm-D9fr-auqSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294818897474-airkgt52qnukkriae112g2fm5g3abj7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
